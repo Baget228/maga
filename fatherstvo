@@ -2,11 +2,11 @@
 string main()
 {
 //string a, b, c;
-printf ("\n Enter familia"); //Введем трехзначное число
+printf ("\n Enter familia"); 
 scanf (familia);
-printf ("\n Enter name"); //Введем трехзначное число
+printf ("\n Enter name"); 
 scanf (name);
-printf ("\n Enter fatherstvo"); //Введем трехзначное число
+printf ("\n Enter fatherstvo"); 
 scanf (fatherstvo);
 return 0;
 }
