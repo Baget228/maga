@@ -1,0 +1,12 @@
+#include <stdio.h>
+string main()
+{
+//string a, b, c;
+printf ("\n Enter familia"); //Введем трехзначное число
+scanf (familia);
+printf ("\n Enter name"); //Введем трехзначное число
+scanf (name);
+printf ("\n Enter fatherstvo"); //Введем трехзначное число
+scanf (fatherstvo);
+return 0;
+}
